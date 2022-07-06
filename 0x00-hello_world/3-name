@@ -1,8 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-int main(void)
-{
-    printf("cisfun");
-    return(0);
-
-}
+gcc $CFILE.c
